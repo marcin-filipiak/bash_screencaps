@@ -7,4 +7,5 @@ Usage:
 But first:
 ```
 chmod +x screencaps.bash
+apt install ffmpeg mediainfo
 ```
